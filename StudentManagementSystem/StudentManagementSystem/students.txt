@@ -1,0 +1,5 @@
+101|Alice Johnson|20|Female|Computer Science|2nd Year|9876543210|alice.johnson@example.com|88.50
+102|Bob Smith|21|Male|Electronics & Communication|3rd Year|9123456780|bob.smith@example.com|76.25
+103|Carla Mendes|19|Female|Mechanical Engineering|1st Year|9988776655|carla.mendes@example.com|91.00
+104|David Lee|22|Male|Information Technology|4th Year|9871234560|david.lee@example.com|67.75
+105|Esha Verma|20|Female|Civil Engineering|2nd Year|9012345678|esha.verma@example.com|82.40
